@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNqUB7TCkH/qrntuJoN6Qqc",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TeresaR27/Maqueta1.1/blob/main/Ejemplo%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "###Mi primer Google Colab\n",
+        "\n",
+        "### Me llamo Teresa Rodriguez Guillen\n",
+        "<img src=https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png>\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "EvcvcmshZkDm"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "OVjsWCkmYon3"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
